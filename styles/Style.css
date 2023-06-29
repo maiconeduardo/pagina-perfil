@@ -44,7 +44,7 @@ body {
     text-decoration: none;
 }
 .cabecalho__menu_link:hover{
-    font-size: 25px;
+    font-size: 1.6rem;
 }
 
 .titulo-destaque {
